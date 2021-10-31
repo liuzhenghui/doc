@@ -1,4 +1,3 @@
-### Maven template
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -11,12 +10,10 @@ buildNumber.properties
 
 .idea/
 
-## File-based project format:
 *.iws
 *.iml
 *.ipr
 
-## Plugin-specific files:
 
 # IntelliJ
 /out/
@@ -32,7 +29,3 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
-.classpath
-.factorypath
-.project
-.settings
