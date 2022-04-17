@@ -1073,8 +1073,9 @@ a.arrow-link:hover, a.arrow-link:hover:before {
 
 .intro {
     background: #fff;
-    padding-top: 100px;
-    padding-bottom: 100px
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 150px;
 }
 
 .icon-nav {
@@ -1089,9 +1090,9 @@ a.arrow-link:hover, a.arrow-link:hover:before {
 .icon-nav i {
     display: block;
     margin: 0 auto 10px;
-    width: 100px;
-    height: 100px;
-    line-height: 100px;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
     text-align: center;
     font-size: 36px;
     color: #ccc;
